@@ -3,7 +3,7 @@
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)                 
 [![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/)   
 
-## [Watch Tutorial for this project](https://youtu.be/5xFwEE3OsVk)
+## [Watch Tutorial for this project](https://youtu.be/HTSDryllx0Y)
 <img src="https://github.com/Spidy20/Text_to_Handwritten_Text_Converter/blob/master/yt_thumb.jpg">
 
 ## Usage:-
